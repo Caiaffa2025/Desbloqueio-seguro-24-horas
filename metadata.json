@@ -1,0 +1,6 @@
+{
+  "name": "Chaveiro 24h Emergência",
+  "description": "Portal completo de chaveiro premium para abertura de residências, veículos, empresas e cofres com atendimento de emergência 24h e pronto-atendimento rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
