@@ -100,7 +100,7 @@ export const mockLocksmiths: Locksmith[] = [
     avatar: 'https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?auto=format&fit=crop&q=80&w=200&h=200',
     vehicle: 'Moto Honda CG 160 Cargo - Prata (Rápido Deslocamento)',
     plate: 'ABC-7G91',
-    phone: '+55 (11) 98493-7529'
+    phone: '+55 (11) 98493.7529'
   },
   {
     id: 'lock-02',
@@ -113,7 +113,7 @@ export const mockLocksmiths: Locksmith[] = [
     avatar: 'https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&q=80&w=200&h=200',
     vehicle: 'Fiat Fiorino Chaveiro Móvel - Branca (Equipada com Pantógrafos)',
     plate: 'XYZ-3H44',
-    phone: '+55 (11) 98888-5678'
+    phone: '+55 (11) 98888.5678'
   },
   {
     id: 'lock-03',
@@ -126,7 +126,7 @@ export const mockLocksmiths: Locksmith[] = [
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200&h=200',
     vehicle: 'Moto Yamaha Fazer 250 - Azul (Equipamentos de Precisão)',
     plate: 'KJL-1Y23',
-    phone: '+55 (11) 97777-1122'
+    phone: '+55 (11) 97777.1122'
   },
   {
     id: 'lock-04',
@@ -139,7 +139,7 @@ export const mockLocksmiths: Locksmith[] = [
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200&h=200',
     vehicle: 'Renault Kangoo Oficina - Cinza (Ideal para Codificação Automotiva)',
     plate: 'QWE-5U98',
-    phone: '+55 (11) 96666-4433'
+    phone: '+55 (11) 96666.4433'
   }
 ];
 

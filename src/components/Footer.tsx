@@ -54,7 +54,7 @@ export default function Footer() {
                 <div>
                   <span className="block text-neutral-400 text-[10px] font-mono">PLANTÃO 24H (WHATSAPP)</span>
                   <a href="https://wa.me/5511984937529" target="_blank" rel="noopener noreferrer" className="text-white hover:text-amber-400 font-bold transition-colors">
-                    (11) 98493-7529
+                    (11) 98493.7529
                   </a>
                 </div>
               </li>
@@ -124,7 +124,7 @@ export default function Footer() {
 
         {/* Legal copyright details */}
         <div className="border-t border-neutral-900/40 pt-6 text-center text-[10px] font-mono text-neutral-600">
-          <p>© {new Date().getFullYear()} Chaveiro 24h Emergência Ltda. CNPJ: 12.345.678/0001-90. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} Chaveiro 24h Emergência Ltda. CNPJ: 12.345.678/0001-90. Todos os direitos reservados / Agencia Stc Mobile / Sydney Caiaffa.</p>
           <p className="mt-1">Desenvolvido com foco em segurança, criptografia lógica e acionamento célere de serviços residenciais, empresariais e cofres.</p>
         </div>
 

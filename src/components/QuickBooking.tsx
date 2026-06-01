@@ -273,7 +273,7 @@ _Estou enviando esta solicitação pré-configurada para atendimento prioritári
                           type="tel"
                           value={contactPhone}
                           onChange={(e) => setContactPhone(e.target.value)}
-                          placeholder="Ex: (11) 98765-4321"
+                          placeholder="Ex: (11) 98765.4321"
                           className="w-full bg-neutral-900 border border-neutral-800 rounded-xl px-4 py-3.5 text-base sm:text-sm text-white placeholder-neutral-600 focus:outline-none focus:border-amber-400 font-sans"
                         />
                       </div>

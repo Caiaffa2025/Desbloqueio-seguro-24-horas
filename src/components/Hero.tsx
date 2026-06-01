@@ -143,7 +143,7 @@ export default function Hero({ onStartBooking, onViewServices }: HeroProps) {
                     <div>
                       <span className="block text-[10px] font-mono text-neutral-500 uppercase">Falar pelo WhatsApp</span>
                       <a href="https://wa.me/5511984937529" target="_blank" rel="noopener noreferrer" className="block text-base font-bold text-white hover:text-amber-400 transition-colors">
-                        (11) 98493-7529
+                        (11) 98493.7529
                       </a>
                     </div>
                   </div>

@@ -24,8 +24,8 @@ export default function Navbar({ onOrderEmergency, onViewServices, onViewPricing
           <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
           <span className="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
         </span>
-        <span className="hidden sm:inline">PLANTÃO DE EMERGÊNCIA ATIVO NO MOMENTO — WHATSAPP: (11) 98493-7529 — ATENDIMENTO RÁPIDO EM SÃO PAULO</span>
-        <span className="inline sm:hidden">CONTATO WHATSAPP: (11) 98493-7529 — PLANTÃO DE EMERGÊNCIA 24H</span>
+        <span className="hidden sm:inline">PLANTÃO DE EMERGÊNCIA ATIVO NO MOMENTO — WHATSAPP: (11) 98493.7529 — ATENDIMENTO RÁPIDO EM SÃO PAULO</span>
+        <span className="inline sm:hidden">CONTATO WHATSAPP: (11) 98493.7529 — PLANTÃO DE EMERGÊNCIA 24H</span>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -89,7 +89,7 @@ export default function Navbar({ onOrderEmergency, onViewServices, onViewPricing
               className="flex items-center gap-2 text-sm text-neutral-300 hover:text-white transition-colors"
             >
               <Phone className="w-4 h-4 text-amber-400" />
-              <span>(11) 98493-7529</span>
+              <span>(11) 98493.7529</span>
             </a>
             <button
               onClick={onOrderEmergency}
@@ -157,7 +157,7 @@ export default function Navbar({ onOrderEmergency, onViewServices, onViewPricing
             <div className="flex items-center justify-between text-xs px-3">
               <span className="text-neutral-400 font-mono">SUPORTE WHATSAPP:</span>
               <a href="https://wa.me/5511984937529" target="_blank" rel="noopener noreferrer" className="text-amber-400 font-bold hover:underline">
-                (11) 98493-7529
+                (11) 98493.7529
               </a>
             </div>
 
